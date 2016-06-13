@@ -1,0 +1,1 @@
+alton IPaddr::10.0.30.15//8/eth0:10 haproxy master-redis
