@@ -1,0 +1,2 @@
+#!/bin/bash
+redis-cli -h 10.0.30.20 -p 26379 SENTINEL failover redis-cluster
